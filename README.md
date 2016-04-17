@@ -1,6 +1,6 @@
 # Basic_Java
-Basic Java Programs! </n>
-Index: <\n>
+Basic Java Programs!
+Index:
 1. Database Setup:
 Connection to Online Database using free server hosting website -- https://db4free.net/
 No localhost requred. 
