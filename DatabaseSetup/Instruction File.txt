@@ -1,0 +1,14 @@
+1. create account on db4free.net
+2. create account on 000webhost.com
+3. create database in db4free and connect it to java file as showed.
+4. Main.java is for entering the data.
+5. fetching.java is to receive data from database.
+6. Once database is working perfectly in java your first part is sucessful.
+7. Now to use that Database and convert it into JSON use the code from json.php file.
+8. add the same connection details into json.php file from main.java
+9. Upload that json.php file on your account of 000webhost.com File Manager
+10. Use that URL to view the php file on your browser.
+11. Test everything by adding data from Java execution and then refresh your json.php page.
+
+Success!
+Thank You!  
